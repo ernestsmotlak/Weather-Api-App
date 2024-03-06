@@ -17,7 +17,7 @@ function Fetch2() {
         try {
             const response = await fetch(
                 // `http://localhost:8080/http://api.weatherapi.com/v1/current.json?key=11a3eabe04a14e73b6e182356241501&q=${savedInput}&aqi=no`
-                `http://api.weatherapi.com/v1/forecast.json?key=11a3eabe04a14e73b6e182356241501&q=${savedInput}&days=5&aqi=no&alerts=no`
+                `https://api.weatherapi.com/v1/forecast.json?key=11a3eabe04a14e73b6e182356241501&q=${savedInput}&days=5&aqi=no&alerts=no`
             );
 
             if (!response.ok) {
