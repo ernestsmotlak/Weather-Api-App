@@ -1,6 +1,6 @@
 # Weather App using React
 
-The app is available here: [https://weather-api-app-orpin.vercel.app/]
+The app is available here: https://weather-api-app-orpin.vercel.app/
 
 ## How to run
 - Inside '/src' run ```npm run start```
