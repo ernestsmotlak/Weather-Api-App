@@ -1,0 +1,55 @@
+.main.container {
+    max-width: 400px;
+}
+
+.main.col.first {
+    border-top: 2px solid var(--border-color);
+    border-left: 2px solid var(--border-color);
+    border-right: 2px solid var(--border-color);
+    border-radius: 10px;
+
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    background-color: var(--primary-color);
+}
+
+.main.col.second {
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+
+    margin-left: 5%;
+    margin-right: 5%;
+
+    background-color: var(--primary-color);
+}
+
+.main.col.third {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+
+    border-left: 2px solid var(--border-color);
+    border-right: 2px solid var(--border-color);
+    border-bottom: 2px solid var(--border-color);
+    border-radius: 10px;
+
+    background-color: var(--primary-color);
+}
+
+.mainImage {
+    width: 40%;
+    max-width: 115px;
+}
+
+.main.inner.container.text-center {
+    margin-bottom: 5%;
+    
+    background-color: var(--primary-color);
+}
+
+.bi.bi-geo-alt-fill {
+    font-size: larger;
+    color: steelblue;
+}

@@ -1,0 +1,16 @@
+.footer {
+    margin-top: 5%;
+    background-color: var(--quaternary-color);
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer.row {
+    margin-left: 0;
+}

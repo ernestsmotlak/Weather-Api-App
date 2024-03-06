@@ -1,0 +1,38 @@
+.fetch {
+    background-color: var(--secondary-color);
+    min-height: 100vh;
+    /* Set minimum height to 100% of the viewport height */
+    overflow: auto;
+    font-family: monospace;
+}
+
+.outerTextInputField {
+    margin-top: 2%;
+}
+
+.printInputText {
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+.innerTextInputField {
+    background-color: whitesmoke;
+    border: 2px solid var(--border-color) !important;
+    border-radius: 7.5px;
+    margin-left: 35px; /* Questionable */
+}
+
+.fetch2.btn {
+    display: inline-block !important;
+    position: relative !important;
+    font-size: 250% !important; 
+    color: #97bde3 !important;  
+}
+
+.fetch2.btn:hover {
+    color: dodgerblue !important;
+}
+
+
+
