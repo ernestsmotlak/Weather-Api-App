@@ -1,9 +1,9 @@
 # Weather App using React
 
+The app is available here: [https://weather-api-app-orpin.vercel.app/]
+
 ## How to run
 - Inside '/src' run ```npm run start```
-- Inside '/cors-anywhere' run ```npm start```
-
 
 ## Current Task
 - Change the button so that the margin top and bottom are 0, also add styles and align it with the text input field.
