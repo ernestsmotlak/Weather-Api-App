@@ -1,42 +1,30 @@
 # Weather App
 
-[The app is available here:](https://weather-api-app-orpin.vercel.app/)
+[The app is available here](https://weather-api-app-orpin.vercel.app/)
 
-Timetable website for bus transports in Koper.
 
-### Made with React, Node.js and SqLite
+### Made with React and Node.js
 
 ## Screenshots
 
 ##### Landing Page
 <div align="center">
-    <img src="" width="700px"</img> 
+    <img src="Screenshots/Screenshot 2024-06-18 at 12.37.21.png" width="700px"</img> 
 </div>
 
-##### The user either logs in or signs up
-###### Registration page
+##### User inputs a location
 <div align="center">
-    <img src="" width="700px"</img> 
+    <img src="Screenshots/Screenshot 2024-06-18 at 12.38.14.png" width="700px"</img> 
 </div>
 
-##### Another example of a bus line
+##### Example
 <div align="center">
-    <img src="" width="700px"</img> 
+    <img src="Screenshots/Screenshot 2024-06-18 at 12.43.25.png" width="700px"</img> 
 </div>
 
-##### The user then selects a room
+##### Mobile view
 <div align="center">
-    <img src="" width="700px"</img> 
-</div>
-
-##### If the other user enter the same room name, the users can then send eachother messages
-<div align="center">
-    <img src="" width="700px"</img> 
-</div>
-
-##### The database is very simple, as it only stores the unhashed password, username and a randomly generated unique user id.
-<div align="center">
-    <img src="" width="700px"</img> 
+    <img src="Screenshots/Screenshot 2024-06-18 at 12.39.00.png" height='500px'</img> 
 </div>
 
 ---
